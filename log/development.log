@@ -855,3 +855,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 14ms (Views: 6.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 76.186.24.131 at 2019-11-22 00:05:25 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.4ms)
+Completed 200 OK in 5ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
